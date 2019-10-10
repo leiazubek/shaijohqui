@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aekaituti.g4jj.com/sitemap.xml
